@@ -12,7 +12,11 @@
   <a href="https://instagram.com/koroglu.barkin" target="_blank">
     <img src="https://img.shields.io/badge/-koroglu.barkin-purple?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/koroglu.barkin" alt="Instagram" />
   </a>
+  <a href="https://leetcode.com/BarkinKoroglu/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-BarkinKoroglu-orange" alt="LeetCode" />
+  </a>
 </p>
+
 
 ### 🛠️ Languages and Frameworks
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Ileriayo/markdown-badges)
