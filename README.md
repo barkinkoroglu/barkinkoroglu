@@ -12,10 +12,14 @@
   <a href="https://instagram.com/koroglu.barkin" target="_blank">
     <img src="https://img.shields.io/badge/-koroglu.barkin-purple?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/koroglu.barkin" alt="Instagram" />
   </a>
+  <a href="https://www.youtube.com/@barkinkoroglu" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-barkinkoroglu-red?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   <a href="https://leetcode.com/BarkinKoroglu/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-BarkinKoroglu-orange" alt="LeetCode" />
-  </a>
+  </a>  
 </p>
+
 
 
 ### 🛠️ Languages and Frameworks
